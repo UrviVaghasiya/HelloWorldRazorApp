@@ -1,0 +1,13 @@
+D:\Urvi\Bincom Learning\HelloWorldAzureApp\publish\MyFirstRazorApp.exe
+D:\Urvi\Bincom Learning\HelloWorldAzureApp\publish\publish\web.config
+D:\Urvi\Bincom Learning\HelloWorldAzureApp\publish\appsettings.Development.json
+D:\Urvi\Bincom Learning\HelloWorldAzureApp\publish\appsettings.json
+D:\Urvi\Bincom Learning\HelloWorldAzureApp\publish\publish\appsettings.Development.json
+D:\Urvi\Bincom Learning\HelloWorldAzureApp\publish\publish\appsettings.json
+D:\Urvi\Bincom Learning\HelloWorldAzureApp\publish\publish\MyFirstRazorApp.deps.json
+D:\Urvi\Bincom Learning\HelloWorldAzureApp\publish\publish\MyFirstRazorApp.runtimeconfig.json
+D:\Urvi\Bincom Learning\HelloWorldAzureApp\publish\publish\MyFirstRazorApp.staticwebassets.endpoints.json
+D:\Urvi\Bincom Learning\HelloWorldAzureApp\publish\MyFirstRazorApp.dll
+D:\Urvi\Bincom Learning\HelloWorldAzureApp\publish\MyFirstRazorApp.deps.json
+D:\Urvi\Bincom Learning\HelloWorldAzureApp\publish\MyFirstRazorApp.runtimeconfig.json
+D:\Urvi\Bincom Learning\HelloWorldAzureApp\publish\MyFirstRazorApp.pdb

@@ -1,0 +1,74 @@
+d:\Urvi\Bincom Learning\HelloWorldAzureApp\MyFirstRazorApp\bin\Debug\net8.0\appsettings.Development.json
+d:\Urvi\Bincom Learning\HelloWorldAzureApp\MyFirstRazorApp\bin\Debug\net8.0\appsettings.json
+d:\Urvi\Bincom Learning\HelloWorldAzureApp\MyFirstRazorApp\bin\Debug\net8.0\MyFirstRazorApp.staticwebassets.runtime.json
+d:\Urvi\Bincom Learning\HelloWorldAzureApp\MyFirstRazorApp\bin\Debug\net8.0\MyFirstRazorApp.staticwebassets.endpoints.json
+d:\Urvi\Bincom Learning\HelloWorldAzureApp\MyFirstRazorApp\bin\Debug\net8.0\MyFirstRazorApp.exe
+d:\Urvi\Bincom Learning\HelloWorldAzureApp\MyFirstRazorApp\bin\Debug\net8.0\MyFirstRazorApp.deps.json
+d:\Urvi\Bincom Learning\HelloWorldAzureApp\MyFirstRazorApp\bin\Debug\net8.0\MyFirstRazorApp.runtimeconfig.json
+d:\Urvi\Bincom Learning\HelloWorldAzureApp\MyFirstRazorApp\bin\Debug\net8.0\MyFirstRazorApp.dll
+d:\Urvi\Bincom Learning\HelloWorldAzureApp\MyFirstRazorApp\bin\Debug\net8.0\MyFirstRazorApp.pdb
+d:\Urvi\Bincom Learning\HelloWorldAzureApp\MyFirstRazorApp\obj\Debug\net8.0\MyFirstRazorApp.GeneratedMSBuildEditorConfig.editorconfig
+d:\Urvi\Bincom Learning\HelloWorldAzureApp\MyFirstRazorApp\obj\Debug\net8.0\MyFirstRazorApp.AssemblyInfoInputs.cache
+d:\Urvi\Bincom Learning\HelloWorldAzureApp\MyFirstRazorApp\obj\Debug\net8.0\MyFirstRazorApp.AssemblyInfo.cs
+d:\Urvi\Bincom Learning\HelloWorldAzureApp\MyFirstRazorApp\obj\Debug\net8.0\MyFirstRazorApp.csproj.CoreCompileInputs.cache
+d:\Urvi\Bincom Learning\HelloWorldAzureApp\MyFirstRazorApp\obj\Debug\net8.0\MyFirstRazorApp.MvcApplicationPartsAssemblyInfo.cache
+d:\Urvi\Bincom Learning\HelloWorldAzureApp\MyFirstRazorApp\obj\Debug\net8.0\MyFirstRazorApp.RazorAssemblyInfo.cache
+d:\Urvi\Bincom Learning\HelloWorldAzureApp\MyFirstRazorApp\obj\Debug\net8.0\MyFirstRazorApp.RazorAssemblyInfo.cs
+d:\Urvi\Bincom Learning\HelloWorldAzureApp\MyFirstRazorApp\obj\Debug\net8.0\MyFirstRazorApp.sourcelink.json
+d:\Urvi\Bincom Learning\HelloWorldAzureApp\MyFirstRazorApp\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+d:\Urvi\Bincom Learning\HelloWorldAzureApp\MyFirstRazorApp\obj\Debug\net8.0\scopedcss\bundle\MyFirstRazorApp.styles.css
+d:\Urvi\Bincom Learning\HelloWorldAzureApp\MyFirstRazorApp\obj\Debug\net8.0\scopedcss\projectbundle\MyFirstRazorApp.bundle.scp.css
+d:\Urvi\Bincom Learning\HelloWorldAzureApp\MyFirstRazorApp\obj\Debug\net8.0\staticwebassets.build.json
+d:\Urvi\Bincom Learning\HelloWorldAzureApp\MyFirstRazorApp\obj\Debug\net8.0\staticwebassets.development.json
+d:\Urvi\Bincom Learning\HelloWorldAzureApp\MyFirstRazorApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+d:\Urvi\Bincom Learning\HelloWorldAzureApp\MyFirstRazorApp\obj\Debug\net8.0\staticwebassets\msbuild.MyFirstRazorApp.Microsoft.AspNetCore.StaticWebAssets.props
+d:\Urvi\Bincom Learning\HelloWorldAzureApp\MyFirstRazorApp\obj\Debug\net8.0\staticwebassets\msbuild.MyFirstRazorApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+d:\Urvi\Bincom Learning\HelloWorldAzureApp\MyFirstRazorApp\obj\Debug\net8.0\staticwebassets\msbuild.build.MyFirstRazorApp.props
+d:\Urvi\Bincom Learning\HelloWorldAzureApp\MyFirstRazorApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MyFirstRazorApp.props
+d:\Urvi\Bincom Learning\HelloWorldAzureApp\MyFirstRazorApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MyFirstRazorApp.props
+d:\Urvi\Bincom Learning\HelloWorldAzureApp\MyFirstRazorApp\obj\Debug\net8.0\staticwebassets.pack.json
+d:\Urvi\Bincom Learning\HelloWorldAzureApp\MyFirstRazorApp\obj\Debug\net8.0\MyFirstRazorApp.dll
+d:\Urvi\Bincom Learning\HelloWorldAzureApp\MyFirstRazorApp\obj\Debug\net8.0\refint\MyFirstRazorApp.dll
+d:\Urvi\Bincom Learning\HelloWorldAzureApp\MyFirstRazorApp\obj\Debug\net8.0\MyFirstRazorApp.pdb
+d:\Urvi\Bincom Learning\HelloWorldAzureApp\MyFirstRazorApp\obj\Debug\net8.0\MyFirstRazorApp.genruntimeconfig.cache
+d:\Urvi\Bincom Learning\HelloWorldAzureApp\MyFirstRazorApp\obj\Debug\net8.0\ref\MyFirstRazorApp.dll
+D:\Urvi\HelloWorldRazorApp\MyFirstRazorApp\bin\Debug\net8.0\appsettings.Development.json
+D:\Urvi\HelloWorldRazorApp\MyFirstRazorApp\bin\Debug\net8.0\appsettings.json
+D:\Urvi\HelloWorldRazorApp\MyFirstRazorApp\bin\Debug\net8.0\MyFirstRazorApp.staticwebassets.endpoints.json
+D:\Urvi\HelloWorldRazorApp\MyFirstRazorApp\bin\Debug\net8.0\publish\web.config
+D:\Urvi\HelloWorldRazorApp\MyFirstRazorApp\bin\Debug\net8.0\publish\appsettings.Development.json
+D:\Urvi\HelloWorldRazorApp\MyFirstRazorApp\bin\Debug\net8.0\publish\appsettings.json
+D:\Urvi\HelloWorldRazorApp\MyFirstRazorApp\bin\Debug\net8.0\publish\MyFirstRazorApp.deps.json
+D:\Urvi\HelloWorldRazorApp\MyFirstRazorApp\bin\Debug\net8.0\publish\MyFirstRazorApp.runtimeconfig.json
+D:\Urvi\HelloWorldRazorApp\MyFirstRazorApp\bin\Debug\net8.0\publish\MyFirstRazorApp.staticwebassets.endpoints.json
+D:\Urvi\HelloWorldRazorApp\MyFirstRazorApp\bin\Debug\net8.0\MyFirstRazorApp.staticwebassets.runtime.json
+D:\Urvi\HelloWorldRazorApp\MyFirstRazorApp\bin\Debug\net8.0\MyFirstRazorApp.exe
+D:\Urvi\HelloWorldRazorApp\MyFirstRazorApp\bin\Debug\net8.0\MyFirstRazorApp.deps.json
+D:\Urvi\HelloWorldRazorApp\MyFirstRazorApp\bin\Debug\net8.0\MyFirstRazorApp.runtimeconfig.json
+D:\Urvi\HelloWorldRazorApp\MyFirstRazorApp\bin\Debug\net8.0\MyFirstRazorApp.dll
+D:\Urvi\HelloWorldRazorApp\MyFirstRazorApp\bin\Debug\net8.0\MyFirstRazorApp.pdb
+D:\Urvi\HelloWorldRazorApp\MyFirstRazorApp\obj\Debug\net8.0\MyFirstRazorApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Urvi\HelloWorldRazorApp\MyFirstRazorApp\obj\Debug\net8.0\MyFirstRazorApp.AssemblyInfoInputs.cache
+D:\Urvi\HelloWorldRazorApp\MyFirstRazorApp\obj\Debug\net8.0\MyFirstRazorApp.AssemblyInfo.cs
+D:\Urvi\HelloWorldRazorApp\MyFirstRazorApp\obj\Debug\net8.0\MyFirstRazorApp.csproj.CoreCompileInputs.cache
+D:\Urvi\HelloWorldRazorApp\MyFirstRazorApp\obj\Debug\net8.0\MyFirstRazorApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Urvi\HelloWorldRazorApp\MyFirstRazorApp\obj\Debug\net8.0\MyFirstRazorApp.RazorAssemblyInfo.cache
+D:\Urvi\HelloWorldRazorApp\MyFirstRazorApp\obj\Debug\net8.0\MyFirstRazorApp.RazorAssemblyInfo.cs
+D:\Urvi\HelloWorldRazorApp\MyFirstRazorApp\obj\Debug\net8.0\MyFirstRazorApp.sourcelink.json
+D:\Urvi\HelloWorldRazorApp\MyFirstRazorApp\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\Urvi\HelloWorldRazorApp\MyFirstRazorApp\obj\Debug\net8.0\scopedcss\bundle\MyFirstRazorApp.styles.css
+D:\Urvi\HelloWorldRazorApp\MyFirstRazorApp\obj\Debug\net8.0\scopedcss\projectbundle\MyFirstRazorApp.bundle.scp.css
+D:\Urvi\HelloWorldRazorApp\MyFirstRazorApp\obj\Debug\net8.0\staticwebassets.build.json
+D:\Urvi\HelloWorldRazorApp\MyFirstRazorApp\obj\Debug\net8.0\staticwebassets.development.json
+D:\Urvi\HelloWorldRazorApp\MyFirstRazorApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Urvi\HelloWorldRazorApp\MyFirstRazorApp\obj\Debug\net8.0\staticwebassets\msbuild.MyFirstRazorApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Urvi\HelloWorldRazorApp\MyFirstRazorApp\obj\Debug\net8.0\staticwebassets\msbuild.MyFirstRazorApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Urvi\HelloWorldRazorApp\MyFirstRazorApp\obj\Debug\net8.0\staticwebassets\msbuild.build.MyFirstRazorApp.props
+D:\Urvi\HelloWorldRazorApp\MyFirstRazorApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MyFirstRazorApp.props
+D:\Urvi\HelloWorldRazorApp\MyFirstRazorApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MyFirstRazorApp.props
+D:\Urvi\HelloWorldRazorApp\MyFirstRazorApp\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Urvi\HelloWorldRazorApp\MyFirstRazorApp\obj\Debug\net8.0\MyFirstRazorApp.dll
+D:\Urvi\HelloWorldRazorApp\MyFirstRazorApp\obj\Debug\net8.0\refint\MyFirstRazorApp.dll
+D:\Urvi\HelloWorldRazorApp\MyFirstRazorApp\obj\Debug\net8.0\MyFirstRazorApp.pdb
+D:\Urvi\HelloWorldRazorApp\MyFirstRazorApp\obj\Debug\net8.0\MyFirstRazorApp.genruntimeconfig.cache
+D:\Urvi\HelloWorldRazorApp\MyFirstRazorApp\obj\Debug\net8.0\ref\MyFirstRazorApp.dll
